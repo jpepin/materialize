@@ -17,7 +17,7 @@ num_cpus = "1.14.0"
 prost = { version = "0.11.3", features = ["no-recursion-limit"] }
 proptest = { version = "1.0.0", default-features = false, features = ["std"]}
 proptest-derive = { version = "0.3.0", features = ["boxed_union"]}
-serde = { version = "1.0.152", features = ["derive"] }
+serde = { version = "1.0.193", features = ["derive"] }
 uncased = "0.9.7"
 workspace-hack = { version = "0.0.0", path = "../workspace-hack" }
 
